@@ -32,5 +32,3 @@ function isIsogram(str){
     }
   } else return true
 }
-
-console.log(isIsogram("isogramm"))
