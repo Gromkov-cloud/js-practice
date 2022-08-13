@@ -7,6 +7,7 @@ console.log(imagesContainer)
 let imageUrls = []
 
 const createImage = (files) => {
+    
     imagesContainer.innerHTML = ""
 
     files = Array.from(files)
