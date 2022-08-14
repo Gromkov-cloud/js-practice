@@ -1,0 +1,11 @@
+{
+  "name": "js-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Gromkov-cloud/js-prac.git",
+  "author": "Vasiliy Gromkov <v.gromkov2014@yandex.ru>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
