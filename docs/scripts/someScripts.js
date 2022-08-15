@@ -1,8 +1,3 @@
-import {UploadingSendingFiles} from "./loadFile.js"
-
-UploadingSendingFiles()
-
-
 // function highAndLow(numbers){
 //     const arr = numbers.split(/ /gi).map(el => +el)
 //     const hight = Math.max(...arr)
