@@ -1,4 +1,4 @@
 import "./firebase"
-import {UploadingSendingFiles} from "./scripts/inputFile"
+import {UploadingSendingFiles} from "./inputFile"
 
 UploadingSendingFiles("file-input")
